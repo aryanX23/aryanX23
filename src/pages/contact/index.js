@@ -14,7 +14,7 @@ export const ContactUs = () => {
     loading: false,
     show: false,
     alertmessage: "",
-    variant: "",
+    variant: "", 
   });
 
   const handleSubmit = (e) => {
