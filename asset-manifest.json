@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aryanX23/static/css/main.12c3a8f1.css",
-    "main.js": "/aryanX23/static/js/main.97b390f6.js",
+    "main.js": "/aryanX23/static/js/main.183c43dd.js",
     "static/media/slsImg.png": "/aryanX23/static/media/slsImg.9df386a152f5e5e6fc18.png",
     "static/media/aryan.jpeg": "/aryanX23/static/media/aryan.818a9826f7907bf587f2.jpeg",
     "static/media/ieeeImg.png": "/aryanX23/static/media/ieeeImg.8645eb6b8889f4ec2523.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.12c3a8f1.css",
-    "static/js/main.97b390f6.js"
+    "static/js/main.183c43dd.js"
   ]
 }
