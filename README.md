@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working At [TransFi Inc. Pvt. Ltd.](http://transfi.com)
 
-- 🌱 I’m currently learning **Flutter for App Development**
+- 🌱 I’m currently learning **Advance Bankend Technologies Like Kafka, Redis, Docker, Kubernetes, etc**
 
 - 💬 Ask me about **Anything :)**
 
