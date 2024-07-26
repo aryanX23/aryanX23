@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Rai</h1>
 <h3 align="center">A Passionate and Enthusiastic B.Tech Student with a desire to code ;)</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93007558/216892041-5599d3d8-50e0-4d46-8171-5021d69d7745.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanx23&label=Profile%20views&color=0e75b6&style=flat" alt="aryanx23" /> </p>
 
 
