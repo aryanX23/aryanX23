@@ -4,17 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanx23&label=Profile%20views&color=0e75b6&style=flat" alt="aryanx23" /> </p>
 
 
-- 🔭 I’m currently working on [Mynotes App](https://github.com/aryanX23/mynotes-flutter)
+- 🔭 I’m currently working At [TransFi Inc. Pvt. Ltd.](http://transfi.com)
 
 - 🌱 I’m currently learning **Flutter for App Development**
-
-- 👨‍💻 All of my projects are available at [Loading ....](Loading ....)
 
 - 💬 Ask me about **Anything :)**
 
 - 📫 How to reach me **aryanrai2304@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DeiaxNZLPYP_U6wPm4Ai6vtl1jiS3LTx/view?usp=sharing](https://drive.google.com/file/d/1DeiaxNZLPYP_U6wPm4Ai6vtl1jiS3LTx/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link ->](https://drive.google.com/file/d/1CFZy7xkM0zQXv_KTyLbwHa1z4ZewWMPZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
